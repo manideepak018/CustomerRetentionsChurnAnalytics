@@ -1,0 +1,7 @@
+,Customer_ID,Churned,Churned,Customer_Lifetime_Months,Customer_Lifetime_Months,MRR
+,count,sum,<lambda_0>,mean,median,sum
+Segment,,,,,,
+Enterprise,309,9,2.91,22.17,22.8,28121
+Mid-Market,182,5,2.75,21.83,21.63,17778
+SMB,713,45,6.31,21.12,21.27,65797
+Startup,796,59,7.41,20.85,20.92,74354

@@ -1,0 +1,6 @@
+,Customer_ID,Churned,Churned,Customer_Lifetime_Months,MRR
+,count,sum,<lambda_0>,mean,mean
+Plan,,,,,
+Basic,1026,60,5.85,21.01,91.99
+Enterprise,290,17,5.86,21.38,99.07
+Professional,684,41,5.99,21.53,92.01
