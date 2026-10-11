@@ -1,4 +1,4 @@
-@"
+
 streamlit
 pandas
 numpy
@@ -9,4 +9,3 @@ scikit-learn
 jupyter
 ipython
 openpyxl
-"@ | Set-Content -Encoding utf8 ".\requirements.txt"
