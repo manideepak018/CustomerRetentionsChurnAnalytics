@@ -1,0 +1,12 @@
+@"
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipython
+openpyxl
+"@ | Set-Content -Encoding utf8 ".\requirements.txt"
